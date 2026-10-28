@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+node_modules/
+output/*.docx
+output/*.pdf
+output/*.json
+resume-builder-ui/dist/
+*.pyc
